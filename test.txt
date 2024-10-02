@@ -1,7 +1,7 @@
 nesto 
 nesto 2
 nesto 3
-implementiram aftentikacija
+implementiram kupuvanje
 implementiram na registracija
 asda dasdf
 asd agf
